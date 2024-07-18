@@ -14,4 +14,4 @@ Above is a middlemarch, by george eliot
   description: George Eliot (1819-1880), aged 30, by the Swiss artist Alexandre-Louis-François d'Albert-Durade (1804-1886), whose family she lived with while in Switzerland.
   fit="contain">
   
-<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png">
+<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
